@@ -4,8 +4,8 @@ date: 2020-01-21T22:17:51+08:00
 draft: false
 ---
 
-This is a group study course on Distributed Systems based on
-the [6.824 course material](https://pdos.csail.mit.edu/6.824/)
+This is a group study course on Computation Structures based on
+the [6.004 course material](https://computationstructures.org/)
 
 
 This website serves as a store for our discussion notes and/or questions that arise.
@@ -53,15 +53,6 @@ for how you can contribute your notes to this repo :D
 <details class="pt-2">
 <summary class="dropdown">Week 3 (27 Jan - 2 Feb)</summary>
 
-**Teach Seth:**
-
-Sean
-
-Jiaxiu
-
-John
-
-Shaowei
 
 **Remote Helpers**:
 
@@ -81,15 +72,6 @@ Shaowei
 
 **Preparation:** Read [Raft (extended) (2014), to end of Section 5](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf) ([FAQ](https://pdos.csail.mit.edu/6.824/papers/raft-faq.txt)) ([Question](https://pdos.csail.mit.edu/6.824/questions.html?q=q-raft&lec=5))
 
-**Teach Seth:**
-
-Joel
-
-Julius
-
-Jolene
-
-Jiaxiu
 
 **Remote Helpers**:
 
@@ -158,23 +140,6 @@ Guo Wei
 
 **Assigned:** [Lab 4: Sharded KV](https://pdos.csail.mit.edu/6.824/labs/lab-shard.html)
 
-**Teach Seth:**
-
-Julius
-
-Arsalan
-
-Guo Wei
-
-Yu Jia
-
-Adam
-
-**Remote Helpers**:
-
-<Person One>
-
-<Person Two>
 </details>
 <details class="pt-2">
 <summary class="dropdown">Week 9 (16-22 Mar)</summary>
@@ -195,23 +160,6 @@ Adam
 
 **Preparation:** Read [Frangipani](https://pdos.csail.mit.edu/6.824/papers/thekkath-frangipani.pdf) ([FAQ](https://pdos.csail.mit.edu/6.824/papers/frangipani-faq.txt)) ([Question](https://pdos.csail.mit.edu/6.824/questions.html?q=q-frangipani&lec=15))
 
-**Teach Seth:**
-
-John
-
-Shaowei
-
-Rahul
-
-Donald
-
-Adam
-
-**Remote Helpers**:
-
-<Person One>
-
-<Person Two>
 
 </details>
 <details class="pt-2">
