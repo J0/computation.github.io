@@ -1,24 +1,25 @@
 ---
-title: "Welcome to Computation Structures Self-Study Group!"
-date: 2020-05-30T22:17:51+08:00
+title: "Welcome to NUS Distributed Systems DYOM!"
+date: 2020-01-21T22:17:51+08:00
 draft: false
 ---
 
 This is a group study course on Distributed Systems based on
-the [6.004 course material](https://computationstructures.org/)
+the [6.824 course material](https://pdos.csail.mit.edu/6.824/)
 
 
 This website serves as a store for our discussion notes and/or questions that arise.
 
 ### General Info/Notices
 
-Our next session would be held on Sunday 11am-12pm(SGT) or Saturday 8pm-9pm(PST) on Zoom.
+Our next session would be held on Tuesday 1-2 p.m., venue TBC.
 
+This is a discussion session with Prof Seth, so please come prepared :)
 
 ### Contributing
 
 Check out [the source
-branch](https://github.com/J0/computation.github.io)
+branch](https://github.com/nusdistsys/nusdistsys.github.io/tree/source)
 for how you can contribute your notes to this repo :D
 
 ### Schedule
@@ -52,6 +53,21 @@ for how you can contribute your notes to this repo :D
 <details class="pt-2">
 <summary class="dropdown">Week 3 (27 Jan - 2 Feb)</summary>
 
+**Teach Seth:**
+
+Sean
+
+Jiaxiu
+
+John
+
+Shaowei
+
+**Remote Helpers**:
+
+<Person One>
+
+<Person Two>
 
 **LEC 4:** [Primary-Backup Replication](https://pdos.csail.mit.edu/6.824/notes/l-vm-ft.txt)
 
@@ -65,7 +81,24 @@ for how you can contribute your notes to this repo :D
 
 **Preparation:** Read [Raft (extended) (2014), to end of Section 5](https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf) ([FAQ](https://pdos.csail.mit.edu/6.824/papers/raft-faq.txt)) ([Question](https://pdos.csail.mit.edu/6.824/questions.html?q=q-raft&lec=5))
 
+**Teach Seth:**
 
+Joel
+
+Julius
+
+Jolene
+
+Jiaxiu
+
+**Remote Helpers**:
+
+<Person One>
+
+<Person Two>
+</details>
+<details class="pt-2">
+<summary class="dropdown">Week 5 (10-16 Feb)</summary>
 
 **LEC 6:** [Fault Tolerance: Raft](https://pdos.csail.mit.edu/6.824/notes/l-raft2.txt)
 
@@ -87,6 +120,26 @@ for how you can contribute your notes to this repo :D
 **Assigned:** [Lab 3: KV Raft](https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html)
 
 
+**Teach Seth:**
+
+Joel
+
+Arsalan
+
+Yu Jia
+
+Guo Wei
+
+**Remote Helpers**:
+
+<Person One>
+
+<Person Two>
+
+</details>
+<details class="pt-2">
+<summary class="dropdown">Week 7 (2-8 Mar)</summary>
+
 **LEC 10:** [Distributed Transactions](https://pdos.csail.mit.edu/6.824/notes/l-2pc.txt)
 
 **Preparation:** Read [6.033 Chapter 9](https://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/), just 9.1.5, 9.1.6, 9.5.2, 9.5.3, 9.6.3 ([FAQ](https://pdos.csail.mit.edu/6.824/papers/chapter9-faq.txt)) ([Question](https://pdos.csail.mit.edu/6.824/questions.html?q=q-chapter9&lec=10))
@@ -105,6 +158,26 @@ for how you can contribute your notes to this repo :D
 
 **Assigned:** [Lab 4: Sharded KV](https://pdos.csail.mit.edu/6.824/labs/lab-shard.html)
 
+**Teach Seth:**
+
+Julius
+
+Arsalan
+
+Guo Wei
+
+Yu Jia
+
+Adam
+
+**Remote Helpers**:
+
+<Person One>
+
+<Person Two>
+</details>
+<details class="pt-2">
+<summary class="dropdown">Week 9 (16-22 Mar)</summary>
 
 **LEC 13:** [Big Data: Naiad](https://pdos.csail.mit.edu/6.824/notes/l-naiad.txt)
 
@@ -122,7 +195,27 @@ for how you can contribute your notes to this repo :D
 
 **Preparation:** Read [Frangipani](https://pdos.csail.mit.edu/6.824/papers/thekkath-frangipani.pdf) ([FAQ](https://pdos.csail.mit.edu/6.824/papers/frangipani-faq.txt)) ([Question](https://pdos.csail.mit.edu/6.824/questions.html?q=q-frangipani&lec=15))
 
+**Teach Seth:**
 
+John
+
+Shaowei
+
+Rahul
+
+Donald
+
+Adam
+
+**Remote Helpers**:
+
+<Person One>
+
+<Person Two>
+
+</details>
+<details class="pt-2">
+<summary class="dropdown">Week 11 (30 Mar - 5 Apr)</summary>
 
 **LEC 16:** [Cache Consistency: Memcached at Facebook](https://pdos.csail.mit.edu/6.824/notes/l-memcached.txt)
 
