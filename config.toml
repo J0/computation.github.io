@@ -1,6 +1,6 @@
-baseURL = "https://nusdistsys.github.io/"
+baseURL = "https://computation.netlify.app/"
 languageCode = "en-us"
-title = "6.824 DYOM"
+title = "Computation Structures"
 [menu]
 
   [[menu.main]]
