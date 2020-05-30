@@ -1,5 +1,5 @@
 ---
-title: "Welcome to NUS Distributed Systems DYOM!"
+title: "Welcome to Computation Structures Self-Study Group!"
 date: 2020-01-21T22:17:51+08:00
 draft: false
 ---
@@ -12,20 +12,19 @@ This website serves as a store for our discussion notes and/or questions that ar
 
 ### General Info/Notices
 
-Our next session would be held on Tuesday 1-2 p.m., venue TBC.
+Our next session would be held on Sunday 11am-12p.m (SGT) or Saturday 8pm-9pm(PST)., venue TBC.
 
-This is a discussion session with Prof Seth, so please come prepared :)
 
 ### Contributing
 
 Check out [the source
-branch](https://github.com/nusdistsys/nusdistsys.github.io/tree/source)
+branch](https://github.com/J0/computation.github.io/tree/source)
 for how you can contribute your notes to this repo :D
 
 ### Schedule
 
 <details class="pt-2">
-<summary class="dropdown">Week 1 (13-19 Jan)</summary>
+<summary class="dropdown">Week 1 (13-19 June)</summary>
 
 **LEC 1:** [Introduction](https://pdos.csail.mit.edu/6.824/notes/l01.txt)
 
@@ -41,7 +40,7 @@ for how you can contribute your notes to this repo :D
 </details>
 <details class="pt-2">
 
-<summary class="dropdown">Week 2 (20-26 Jan)</summary>
+<summary class="dropdown">Week 2 (20-26 June)</summary>
 
 **LEC 3:** [GFS](https://pdos.csail.mit.edu/6.824/notes/l-gfs-short.txt)
 
@@ -51,7 +50,7 @@ for how you can contribute your notes to this repo :D
 
 </details>
 <details class="pt-2">
-<summary class="dropdown">Week 3 (27 Jan - 2 Feb)</summary>
+<summary class="dropdown">Week 3 (27 June - 2 July)</summary>
 
 
 **Remote Helpers**:
@@ -66,7 +65,7 @@ for how you can contribute your notes to this repo :D
 
 </details>
 <details class="pt-2">
-<summary class="dropdown">Week 4 (3-9 Feb)</summary>
+<summary class="dropdown">Week 4 (3-9 July)</summary>
 
 **LEC 5:** [Fault Tolerance: Raft](https://pdos.csail.mit.edu/6.824/notes/l-raft.txt)
 
@@ -80,7 +79,7 @@ for how you can contribute your notes to this repo :D
 <Person Two>
 </details>
 <details class="pt-2">
-<summary class="dropdown">Week 5 (10-16 Feb)</summary>
+<summary class="dropdown">Week 5 (10-16 July)</summary>
 
 **LEC 6:** [Fault Tolerance: Raft](https://pdos.csail.mit.edu/6.824/notes/l-raft2.txt)
 
@@ -93,7 +92,7 @@ for how you can contribute your notes to this repo :D
 
 </details>
 <details class="pt-2">
-<summary class="dropdown">Week 6(17-23 Feb)</summary>
+<summary class="dropdown">Week 6(17-23 July)</summary>
 
 **LEC 8:** [Zookeeper](https://pdos.csail.mit.edu/6.824/notes/l-zookeeper.txt)
 
@@ -132,7 +131,7 @@ Guo Wei
 
 </details>
 <details class="pt-2">
-<summary class="dropdown">Week 8 (9-15 Mar)</summary>
+<summary class="dropdown">Week 8 (9-15 July)</summary>
 
 **LEC 12:** [Big Data: Spark](https://pdos.csail.mit.edu/6.824/notes/l-spark.txt)
 
@@ -142,7 +141,7 @@ Guo Wei
 
 </details>
 <details class="pt-2">
-<summary class="dropdown">Week 9 (16-22 Mar)</summary>
+<summary class="dropdown">Week 9 (16-22 July)</summary>
 
 **LEC 13:** [Big Data: Naiad](https://pdos.csail.mit.edu/6.824/notes/l-naiad.txt)
 
@@ -154,7 +153,7 @@ Guo Wei
 
 </details>
 <details class="pt-2">
-<summary class="dropdown">Week 10 (23-29 Apr)</summary>
+<summary class="dropdown">Week 10 (23-29 July)</summary>
 
 **LEC 15:** [Cache Consistency: Frangipani](https://pdos.csail.mit.edu/6.824/notes/l-frangipani.txt)
 
@@ -163,7 +162,7 @@ Guo Wei
 
 </details>
 <details class="pt-2">
-<summary class="dropdown">Week 11 (30 Mar - 5 Apr)</summary>
+<summary class="dropdown">Week 11 (30 July - 5 Aug)</summary>
 
 **LEC 16:** [Cache Consistency: Memcached at Facebook](https://pdos.csail.mit.edu/6.824/notes/l-memcached.txt)
 
@@ -171,13 +170,10 @@ Guo Wei
 
 **LEC 19:** [Peer-to-peer, DHTs](https://pdos.csail.mit.edu/6.824/notes/l-dht.txt)
 
-**Preparation:** Read [Chord (2001)](https://pdos.csail.mit.edu/6.824/papers/stoica-chord.pdf) and [Trackerless Bittorrent ](http://www.bittorrent.org/beps/bep_0005.html)
-
-**Preparation:** Read [AnalogicFS experience paper](https://pdos.csail.mit.edu/6.824/papers/katabi-analogicfs.pdf) ([FAQ](https://pdos.csail.mit.edu/6.824/papers/analogicfs-faq.txt)) ([Question](https://pdos.csail.mit.edu/6.824/questions.html?q=q-analogic&lec=22))
 
 </details>
 <details class="pt-2">
-<summary class="dropdown">Week 12 (6-12 Apr)</summary>
+<summary class="dropdown">Week 12 (6-12 Aug)</summary>
 
 **LEC 20:** [Dynamo](https://pdos.csail.mit.edu/6.824/notes/l-dynamo.txt)
 
@@ -185,10 +181,9 @@ Guo Wei
 
 **LEC 21:** Peer-to-peer: [Bitcoin](https://pdos.csail.mit.edu/6.824/notes/l-bitcoin.txt)
 
-**Preparation:** Read [Bitcoin](https://pdos.csail.mit.edu/6.824/papers/bitcoin.pdf), [summary](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works) ([FAQ](https://pdos.csail.mit.edu/6.824/papers/bitcoin-faq.txt)) ([Question](https://pdos.csail.mit.edu/6.824/questions.html?q=q-bitcoin&lec=21))
 </details>
 <details class="pt-2">
-<summary class="dropdown">Week 13 (13-19 Apr)</summary>
+<summary class="dropdown">Week 13 (13-19 Aug)</summary>
 
 No details.
 
@@ -197,13 +192,13 @@ No details.
 ### Deadlines
 | Date                 | Task                                                            |
 | -                    | -                                                               |
-| **Week 1** (19 Jan)  | [Lab 1](https://pdos.csail.mit.edu/6.824/labs/lab-mr.html)      |
-| **Week 2** (26 Jan)  | [Lab 2A](https://pdos.csail.mit.edu/6.824/labs/lab-raft.html)   |
-| **Week 3** (2 Feb)   | [Lab 2B](https://pdos.csail.mit.edu/6.824/labs/lab-raft.html)   |
-| **Week 4** (9 Feb)   | [Lab 2C](https://pdos.csail.mit.edu/6.824/labs/lab-raft.html)   |
-| **Week 5** (16 Feb)  | [Lab 3A](https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html) |
-| **Recess** (1 Mar)   | [Homework 1]()                                                  |
-| **Week 8** (15 Mar)  | [Lab 3B](https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html) |
-| **Week 10** (29 Mar) | [Lab 4A](https://pdos.csail.mit.edu/6.824/labs/lab-shard.html)  |
-| **Week 12** (12 Apr) | [Lab 4B](https://pdos.csail.mit.edu/6.824/labs/lab-shard.html)  |
-| **Week 13** (19 Apr) | [Homework 2]()                                                  |
+| **Week 1** (19 June)  | [Lab 1](https://pdos.csail.mit.edu/6.824/labs/lab-mr.html)      |
+| **Week 2** (26 June)  | [Lab 2A](https://pdos.csail.mit.edu/6.824/labs/lab-raft.html)   |
+| **Week 3** (2 July)   | [Lab 2B](https://pdos.csail.mit.edu/6.824/labs/lab-raft.html)   |
+| **Week 4** (9 July)   | [Lab 2C](https://pdos.csail.mit.edu/6.824/labs/lab-raft.html)   |
+| **Week 5** (16 July)  | [Lab 3A](https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html) |
+| **Recess** (1 Aug)   | [Homework 1]()                                                  |
+| **Week 8** (15 Aug)  | [Lab 3B](https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html) |
+| **Week 10** (29 Aug) | [Lab 4A](https://pdos.csail.mit.edu/6.824/labs/lab-shard.html)  |
+| **Week 12** (12 Aug) | [Lab 4B](https://pdos.csail.mit.edu/6.824/labs/lab-shard.html)  |
+| **Week 13** (19 Aug) | [Homework 2]()                                                  |
